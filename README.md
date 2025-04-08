@@ -35,7 +35,7 @@ This interactive dashboard visualizes the [Belly Button Biodiversity dataset](ht
 
 * Design that works on cellphone and laptop
 
-## How to Use
+## Instalattion
 
 * Clone this Repository
 
@@ -70,6 +70,8 @@ This interactive dashboard visualizes the [Belly Button Biodiversity dataset](ht
 * Data Source (Credits): the dataset is loaded from: https://static.bc-edx.com/data/dl-1-2/m14/lms/starter/samples.json
 
 * D3.js: Documentation – JavaScript library for producing dynamic, interactive data visualizations: retrieved from https://d3js.org/what-is-d3
+
+* ChatGPT: Used for brainstorming, clarification, and coding assistance
 
 * Plotly.js: Documentation – Open-source graphing library for JavaScript: retrieved from https://plotly.com/javascript/
 
