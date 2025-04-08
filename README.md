@@ -35,7 +35,7 @@ This interactive dashboard visualizes the [Belly Button Biodiversity dataset](ht
 
 * Design that works on cellphone and laptop
 
-## Instalattion
+## Installation
 
 * Clone this Repository
 
