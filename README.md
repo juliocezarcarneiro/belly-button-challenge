@@ -67,6 +67,9 @@ This interactive dashboard visualizes the [Belly Button Biodiversity dataset](ht
 * Add additional visualization types
 
 ## References
+* Hulcr, J. et al. (2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. 
+Retrieved from: [http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/Links to an external site.](https://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/)
+
 * Data Source (Credits): the dataset is loaded from: https://static.bc-edx.com/data/dl-1-2/m14/lms/starter/samples.json
 
 * D3.js: Documentation – JavaScript library for producing dynamic, interactive data visualizations: retrieved from https://d3js.org/what-is-d3
