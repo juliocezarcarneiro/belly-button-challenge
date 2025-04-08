@@ -35,7 +35,22 @@ This interactive dashboard visualizes the [Belly Button Biodiversity dataset](ht
 
 * Design that works on cellphone and laptop
 
-## Installation
+## How to Use
+
+* Clone this Repository
+
+* Open index.html in a web browser
+
+* Access the live dashboard
+
+* Interact with the Dashboard
+  * Select a test subject ID from the dropdown menu
+
+  * View the top 10 OTUs in the bar chart
+
+  * Explore all OTUs in the interactive bubble chart
+
+  * Review demographic information in the metadata panel
 
 ## Repository Structure
 
@@ -54,40 +69,10 @@ This interactive dashboard visualizes the [Belly Button Biodiversity dataset](ht
 ## References
 * Data Source (Credits): the dataset is loaded from: https://static.bc-edx.com/data/dl-1-2/m14/lms/starter/samples.json
 
+* D3.js: Documentation – JavaScript library for producing dynamic, interactive data visualizations: retrieved from https://d3js.org/what-is-d3
 
+* Plotly.js: Documentation – Open-source graphing library for JavaScript: retrieved from https://plotly.com/javascript/
 
+* GitHub Pages: Documentation – Hosting service for static websites directly from GitHub repositories: retrieved from https://docs.github.com/en/pages
 
-
-
-
-How to Use
-Select a test subject ID from the dropdown menu
-
-View the top 10 OTUs in the bar chart
-
-Explore all OTUs in the interactive bubble chart
-
-Review demographic information in the metadata panel
-
-
-
-Installation
-To run locally:
-
-Clone this repository
-
-Open index.html in a web browser
-
-Deployment
-The dashboard is deployed to GitHub Pages at: [Insert Your Deployment URL Here]
-
-
-
-
-
-
-
-
-
-
-
+* HTML Cheat Sheet: retrieved from [htmlcheatsheet.com](https://htmlcheatsheet.com/)
